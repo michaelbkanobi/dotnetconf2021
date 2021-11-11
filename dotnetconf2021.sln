@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesPizza", "RazorPagesPizza\RazorPagesPizza.csproj", "{BF16D9EA-C67A-4F34-A9C1-D48F581C1508}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloConsole", "HelloConsole\HelloConsole.csproj", "{893E7164-D4CC-4A1E-9C73-57DDCF1E153D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF16D9EA-C67A-4F34-A9C1-D48F581C1508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF16D9EA-C67A-4F34-A9C1-D48F581C1508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF16D9EA-C67A-4F34-A9C1-D48F581C1508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF16D9EA-C67A-4F34-A9C1-D48F581C1508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{893E7164-D4CC-4A1E-9C73-57DDCF1E153D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893E7164-D4CC-4A1E-9C73-57DDCF1E153D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893E7164-D4CC-4A1E-9C73-57DDCF1E153D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893E7164-D4CC-4A1E-9C73-57DDCF1E153D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B7EDBB-F1FE-403D-93A0-5B21B3434FD6}
+	EndGlobalSection
+EndGlobal
