@@ -4,6 +4,9 @@ https://dotnet.microsoft.com/download/dotnet/6.0
 # Upgrade Assistant
 https://dotnet.microsoft.com/platform/upgrade-assistant
 
+# Static web App
+aka.ms/SWA-Blazor
+
 # TimeStamps
 Aysnc Streaming| 18:00 | ASP.NET Core MVC & Razor Pages in .NET 6 | https://youtu.be/UFXfmgQm_D4
 
